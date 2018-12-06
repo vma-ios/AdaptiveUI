@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AdaptStack-v1/AdaptStack-v1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptStack-v2/AdaptStack-v2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptLayout-v1/AdaptLayout-v1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptStack-v3/AdaptStack-v3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptStack-v4/AdaptStack-v4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptAsset-v1/AdaptAsset-v1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptType-v1/AdaptType-v1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptText-v1/AdaptText-v1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptSize-v1/AdaptSize-v1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AdaptConstraints-v1/AdaptConstraints-v1.xcodeproj">
+   </FileRef>
+</Workspace>
